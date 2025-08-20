@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\ej1solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\ej1solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\classes\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\classes\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\classes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\classes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|c:\\users\\gc\\source\\repos\\guiasolid\\ej1solid\\ej1solid\\interfaces\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9502BEF2-DBE3-4971-B836-E7F683A4D24F}|ej1Solid\\ej1Solid.csproj|solutionrelative:ej1solid\\interfaces\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Classes\\Repository.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Classes\\Repository.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Classes\\Repository.cs",
+              "RelativeToolTip": "ej1Solid\\Classes\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:18:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Classes\\Logger.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Classes\\Logger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Classes\\Logger.cs",
+              "RelativeToolTip": "ej1Solid\\Classes\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:18:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ej1Solid",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\ej1Solid.csproj",
+              "RelativeDocumentMoniker": "ej1Solid\\ej1Solid.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\ej1Solid.csproj",
+              "RelativeToolTip": "ej1Solid\\ej1Solid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T17:18:05.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "ej1Solid\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:17:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "ej1Solid\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:16:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "ej1Solid\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:16:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\IOrderValidator.cs",
+              "RelativeDocumentMoniker": "ej1Solid\\Interfaces\\IOrderValidator.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guiaSolid\\ej1Solid\\ej1Solid\\Interfaces\\IOrderValidator.cs",
+              "RelativeToolTip": "ej1Solid\\Interfaces\\IOrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:16:15.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
